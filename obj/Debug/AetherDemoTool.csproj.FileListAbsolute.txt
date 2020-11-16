@@ -1,0 +1,11 @@
+I:\Software\repo\AetherDemoTool\bin\Debug\AetherDemoTool.exe.config
+I:\Software\repo\AetherDemoTool\bin\Debug\AetherDemoTool.exe
+I:\Software\repo\AetherDemoTool\bin\Debug\AetherDemoTool.pdb
+I:\Software\repo\AetherDemoTool\obj\Debug\AetherDemoTool.csprojAssemblyReference.cache
+I:\Software\repo\AetherDemoTool\obj\Debug\Aether.DemoTool.Properties.Resources.resources
+I:\Software\repo\AetherDemoTool\obj\Debug\AetherDemoTool.csproj.GenerateResource.cache
+I:\Software\repo\AetherDemoTool\obj\Debug\AetherDemoTool.csproj.CoreCompileInputs.cache
+I:\Software\repo\AetherDemoTool\obj\Debug\AetherDemoTool.exe
+I:\Software\repo\AetherDemoTool\obj\Debug\AetherDemoTool.pdb
+I:\Software\repo\AetherDemoTool\obj\Debug\Aether.DemoTool.form_AetherStartWindow.resources
+I:\Software\repo\AetherDemoTool\obj\Debug\Aether.DemoTool.Start.resources
